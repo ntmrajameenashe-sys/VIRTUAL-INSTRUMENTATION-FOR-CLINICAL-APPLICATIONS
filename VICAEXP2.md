@@ -81,7 +81,7 @@ To perform Boolean operations (AND, OR, XOR, NOT, NAND) using LabVIEW.
 ---
 
 ##  Output
-<img width="1918" height="1121" alt="image" src="https://github.com/user-attachments/assets/710f35a9-6eec-4781-8cf3-e2d6104a7687" />
+<img width="1919" height="1116" alt="image" src="https://github.com/user-attachments/assets/0342661c-b7e3-41ce-9493-4e44a94d7946" />
 
 ##  Result
 
